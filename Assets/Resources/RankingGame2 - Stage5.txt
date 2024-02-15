@@ -1,0 +1,51 @@
+번호	문제	정답	선지1	선지2	선지3
+1	\((+3) ÷ (-2)^3 × (-12)	\(+ $9 \over 2 $	\(- $9 \over 2 $	\(- $3 \over 2 $	\(+ $3 \over 2 $
+2	\((-12) × (+3) ÷ (-2)^3	\(+ $9 \over 2 $	\(- $9 \over 2 $	\(- $3 \over 2 $	\(+ $3 \over 2 $
+3	\((+6) ÷ (-3) × (+4)	\(-8	\(-4	4	8
+4	\((+4) × (+6) ÷ (-3)	\(-8	\(-4	4	8
+5	\(2 ÷ $4 \over 3 $ × 6 	9	\(-9	\(-3	3
+6	\(6 × 2 ÷ $4 \over 3 $ 	9	\(-9	\(-3	3
+7	\($18 \over 7 $ × \bigg(- $4 \over 3 $\bigg) ÷ 3	\(- $8 \over 7 $	\(- $4 \over 7 $	\(+ $4 \over 7 $	\(+ $8 \over 7 $
+8	\(\bigg(- $4 \over 3 $\bigg) ÷ 3 × $18 \over 7 $ 	\(- $8 \over 7 $	\(- $4 \over 7 $	\(+ $4 \over 7 $	\(+ $8 \over 7 $
+9	\(\bigg(- $3 \over 4 $\bigg) ÷ \bigg(- $9 \over 2 $\bigg) × 3	\(+ $1 \over 2 $	\(- $1 \over 2 $	\(- $1 \over 4 $	\(+ $1 \over 4 $
+10	\(3 × \bigg(- $3 \over 4 $\bigg) ÷ \bigg(- $9 \over 2 $\bigg)	\(+ $1 \over 2 $	\(- $1 \over 2 $	\(- $1 \over 4 $	\(+ $1 \over 4 $
+11	\($12 \over 5 $ × (-8) ÷ \bigg(-  $6 \over 5 $\bigg)	16	\(-24	\(-16	24
+12	\((-8) × $12 \over 5 $ ÷ \bigg(- $6 \over 5 $\bigg)  	16	\(-24	\(-16	24
+13	\(\bigg(- $9 \over 10 $\bigg) × $2 \over 3 $ ÷ \bigg(- $6 \over 5 $\bigg)	\(+ $1 \over 2 $	\(- $1 \over 2 $	\(- $1 \over 5 $	\(+ $1 \over 5 $
+14	\($2 \over 3 $ × \bigg(- $9 \over 10 $\bigg) ÷ \bigg(- $6 \over 5 $\bigg)	\(+ $1 \over 2 $	\(- $1 \over 2 $	\(- $1 \over 5 $	\(+ $1 \over 5 $
+15	\((-2.5) × (-6) ÷ \bigg(- $5 \over 3 $\bigg)	\(-9	\(- $1 \over 3 $	\(+ $1 \over 3 $	9
+16	\((-6) × (-2.5) ÷ \bigg(- $5 \over 3 $\bigg) 	\(-9	\(- $1 \over 3 $	\(+ $1 \over 3 $	9
+17	\((-24) ÷ $8 \over 5 $ × \bigg(- $1 \over 5 $\bigg)^2	\(- $3 \over 5 $	\(- $1 \over 5 $	\(+ $1 \over 5 $	\(+ $3 \over 5 $
+18	\(\bigg(- $1 \over 5 $\bigg)^2 × (-24) ÷ $8 \over 5 $	\(- $3 \over 5 $	\(- $1 \over 5 $	\(+ $1 \over 5 $	\(+ $3 \over 5 $
+19	\(\bigg(- $3 \over 2 $\bigg)^3 ÷ 6 × \bigg(- $16 \over 3 $\bigg)	3	\(-6	\(-3	6
+20	\(\bigg(- $16 \over 3 $\bigg) × \bigg(- $3 \over 2 $\bigg)^3 ÷ 6	3	\(-6	\(-3	6
+21	\($8 \over 5 $ ÷ (-2)^3 x \bigg(-$15 \over 2 $\bigg)	\($3 \over 2 $	\(-$5 \over 2 $	\(-$3 \over 2 $	\($5 \over 2 $
+22	\(\bigg(-$15 \over 2 $\bigg) ×  $8 \over 5 $ ÷ (-2)^3	\($3 \over 2 $	\(-$5 \over 2 $	\(-$3 \over 2 $	\($5 \over 2 $
+23	\((-14) × \bigg(- $2 \over 7 $\bigg) ÷ \bigg (- $1 \over 3 $ \bigg)^2	36	\(-36	\(-$7 \ove r3 $	\($7 \over 3 $
+24	\(\bigg(- $2 \over 7 $\bigg) × (-14) ÷ \bigg(- $1 \over 3 $\bigg)^2	36	\(-36	\(-$7 \over 3 $	\($7 \over 3 $
+25	\((-2)^2 × \bigg(- $4 \over 5 $\bigg) ÷ $16 \over 5 $	\($3 \over 2 $	\(-$5 \over 2 $	\(-$3 \over 2 $	\($5 \over 2 $
+26	\(\bigg(- $4 \over 5 $\bigg) × (-2)^2 ÷ $16 \over 5 $	\($3 \over 2 $	\(-$5 \over 2 $	\(-$3 \over 2 $	\($5 \over 2 $
+27	\(\bigg(- $2 \over 3 $\bigg)^2 ÷ (-8) × \bigg(- $6 \over 5 $\bigg)	\($1 \over 15 $	\(-$1 \over 5 $	\(-$1 \over 15 $	\($1 \over 5 $
+28	\(\bigg(- $6 \over 5 $\bigg) × \bigg(- $2 \over 3 $\bigg)^2 × 10 ÷ (-8)	\($1 \over 15 $	\(-$1 \over 5 $	\(-$1 \over 15 $	\($1 \over 5 $
+29	\(\bigg(- $5 \over 3 $ \bigg) ÷ \bigg(- $15 \over 7 $\bigg) × 10 ÷ \bigg(- $7 \over 6 $\bigg)	\(-$20 \over 3 $	\(-$14 \over 3 $	\($14 \over 3 $	\($20 \over 3 $
+30	\(4 × \bigg(- $9 \over 10 $\bigg) × $2 \over 3 $ ÷ \bigg(- $6 \over 5 $\bigg)	2	-2	\(-$1 \over3 $	\($1 \over 3 $
+31	\(\bigg(- $9 \over 10 $\bigg) × 4 × $2 \over 3 $ ÷ \bigg(- $6 \over 5 $\bigg)	2	-2	\(-$1 \over 3 $	\($1 \over 3 $
+32	\((-6) × (- $4 \over 9 $) ÷ (-16) ÷ (-1.5)	\($1 \over 9 $	\(-$2 \over 9 $	\(-$1 \over 9 $	\($2 \over 9 $
+33	\(\bigg(- $2 \over 5 $\bigg) × \bigg(- $3 \over 2 $\bigg)^2 × 12 ÷ $9 \over 5 $	\(-2	\(-1	1	2
+34	\((-2)^3 ÷ (-5)^2 × 15 ÷ \bigg(- $2 \over 5 $\bigg)	12	\(-12	\(-4	6
+35	\((-2)^2 × \bigg(- $3 \over 4 $\bigg) ÷ \bigg(- $9 \over 2 $\bigg) × 3	2	\(-2	\(-1	1
+36	\(\bigg(- $2 \over 3 $\bigg)^2 ÷ $5 \over 2 $ × \bigg(- $10 \over 3 $\bigg) ÷ (-2)^2	\($2 \over 27 $	\(-$4 \over 27 $	\(-$2 \over 27 $	\($4 \over 27 $
+37	\((-2)^3 × \bigg(- $1 \over 6 $\bigg) ÷ (-3)^2 × (-12)	\($2 \over 27 $	\(-$4 \over 27 $	\(-$2 \over 27 $	\($4 \over 27 $
+38	\(\bigg(- $15 \over 3 $\bigg)^2 × \bigg($9 \over 10 $\bigg)	\(-$5 \over 2 $	\(-$5 \over 3 $	\($5 \over 3 $	\($5 \over 2 $
+39	\(\bigg($9 \over 10 $\bigg) × \bigg(- $15 \over 3 $\bigg)^2	\(-$5 \over 2 $	\(-$5 \over 3 $	\($5 \over 3 $	\($5 \over 2 $
+40	\($5 \over 4 $ ÷ \bigg(- $15 \over 8 $\bigg)	\(-$2 \over 3 $	\(-$1 \over 3 $	\($1 \over 3 $	\($2 \over 3 $
+41	\(\bigg(- $6 \over 5 $\bigg) ÷ 12 × $4 \over 3 $	\(-$2 \over 5 $	\(-$4 \over 15 $	\($2 \over 5 $	\($4 \over 15 $
+42	\($4 \over 3 $ × \bigg(- $6 \over 5 $\bigg) ÷ 12	\(-$2 \over 5 $	\(-$4 \over 15 $	\($2 \over 5 $	\($4 \over 15 $
+43	\($2 \over 5 $ × (-10) ÷ (-16)	\($1 \over 4 $	\(-$1 \over 5 $	\($1 \over 5 $	\(-$1 \over 4 $
+44	\((-10) × $2 \over 5 $ ÷ (-16)	\($1 \over 4 $	\(-$1 \over 5 $	\($1 \over 5 $	\(-$1 \over 4 $
+45	\(\bigg(- $6 \over 5 $\bigg) ÷ (-3)^2 × 10	\(-$4 \over 3 $	\(-$2 \over 5 $	\($1 \over 5 $	\($4 \over 3 $
+46	\(10 × \bigg(- $6 \over 5 $\bigg) ÷ (-3)^2	\(-$4 \over 3 $	\(-$2 \over 5 $	\($1 \over 5 $	\($4 \over 3 $
+47	\($3 \over 4 $ × $5 \over 3 $ ÷ \bigg(- $5 \over 4 $\bigg)^2	\($4 \over 5 $	\(-$4 \over 5 $	\(-$3 \over 5 $	\($1 \over 5 $
+48	\($5 \over 3 $ × $3 \over 4 $ ÷ \bigg(- $5 \over 4 $\bigg)^2	\($4 \over 5 $	\(-$4 \over 5 $	\(-$3 \over 5 $	\($1 \over 5 $
+49	\(\bigg(- $12 \over 5 $\bigg) × (-3) ÷ (-3)^2	\($4 \over 5 $	\(-$4 \over 5 $	\(-$3 \over 5 $	\($1 \over 5 $
+50	\((-3) × \bigg(- $12 \over 5 $\bigg) ÷ (-3)^2	\($4 \over 5 $	\(-$4 \over 5 $	\(-$3 \over 5 $	\($1 \over 5 $
